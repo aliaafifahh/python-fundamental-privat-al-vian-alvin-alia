@@ -1,0 +1,24 @@
+# tanggal = 6
+# bulan = "Oktober"
+# tahun = 2026
+
+# print("Tanggal : ", end=" ")
+# print( tanggal,bulan,tahun, sep="-")
+#output -> Tanggal : 6-Oktober-2026
+
+# nama = input("Masukkan Nama\t: ")
+# prodi = input("Masukkan Prodi\t: ")
+# print ("Nama\t\t:",nama)
+# print ("Program Studi\t:", prodi)
+
+# barang = input("Masukkan Nama Barang\t: ")
+# stok = input("Masukkan Jumlah Stok\t: ")
+# harga = float(input("Masukkan Harga Barang\t: "))
+# rating = float(input("Masukkan Rating\t\t: "))
+
+# print(f"{"":=^25}")
+# print(f"{barang:^25}")
+# print(f"{"":=^25}")
+# print("Stok\t:", stok)
+# print(f"Harga\t:",f"Rp{harga:>15,.2f}")
+# print("Rating\t:", f"{rating:,.2f}")
